@@ -1,4 +1,4 @@
-# Diabetes Predictor
+# Diabetes Predictor System
 
 COMPANY : CODTECH IT SOLUTIONS 
 NAME : AMOL SHIVAJI KADAM 
