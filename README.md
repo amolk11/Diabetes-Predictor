@@ -1,11 +1,22 @@
-# Diabetes Predictor System
+#Diabetes Predictor System
 
-COMPANY : CODTECH IT SOLUTIONS 
-NAME : AMOL SHIVAJI KADAM 
-INTERN ID : CT08DN391 
-DOMAIN : DATA SCIENCE 
-DURARION : 8 WEEKS 
-MENTOR : NEELA SANTOSH
+Submitted by:
+Amol Shivaji Kadam
+
+Intern ID:
+CT08DN391
+
+Company:
+CODTECH IT Solutions
+
+Domain:
+Data Science
+
+Duration:
+8 Weeks
+
+Mentor:
+Neela Santos
 
 # Description
 This project involves the development of a web-based machine learning application to predict the risk of diabetes using health-related input data. The application is designed with an intuitive front-end interface and a robust back-end built with FastAPI. A trained Random Forest machine learning model forms the core of the system, providing real-time predictions based on user input. The application not only performs predictions but also educates users through health tips, feedback, and personalized suggestions, offering a comprehensive digital health assessment experience.
